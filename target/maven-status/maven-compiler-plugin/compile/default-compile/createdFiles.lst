@@ -1,0 +1,5 @@
+com\red_baton\Login.class
+com\red_baton\Register.class
+com\red_baton\ForgotPassword.class
+com\red_baton\NewsItem.class
+com\red_baton\Credentials.class
