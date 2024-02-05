@@ -1,6 +1,6 @@
-# HNTopClone
+# HackerNews Clone
 
-HNTopClone is a HackerNews clone built in Java that allows users to view and manage the top 90 articles from HackerNews in reverse chronological order.
+HackerNews Clone is a HackerNews clone built in Java that allows users to view and manage the top 90 articles from HackerNews in reverse chronological order.
 
 ## Features
 
