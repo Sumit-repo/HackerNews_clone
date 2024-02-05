@@ -23,7 +23,7 @@ HackerNews Clone is a HackerNews clone built in Java that allows users to view a
 ### Installation
 
 1. Clone the repository.
-2. Configure your database connection in `application.properties`.
+2. Configure your database connection in `resources.META-INF.presistance.xml`.
 3. Run the database schema script.
 4. Build the project using Maven.
 
